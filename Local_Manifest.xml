@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/rosemary/G" name="rosemary/android_device_rosemary_G.git" remote="github" revision="lineage-18.1" />
+ <project path="device/rosemary/msm8953-common" name="rosemary/android_device_10or_msm8953-common.git" remote="github" revision="lineage-18.1" />
+ <project path="vendor/rosemary" name="rosemary/android_vendor_rosemary.git" remote="github" revision="master" />
+ <project path="kernel/rosemary/G" name="10orDevs/android_kernel_rosemary_G-4.9.git" remote="github" revision="lineage-18.1" />
+ 
+</manifest>
